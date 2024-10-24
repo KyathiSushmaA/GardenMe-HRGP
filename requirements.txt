@@ -1,1 +1,11 @@
 streamlit
+geopandas
+rasterio
+pandas
+numpy
+requests
+plotly
+folium
+streamlit-folium
+datetime
+google.colab
